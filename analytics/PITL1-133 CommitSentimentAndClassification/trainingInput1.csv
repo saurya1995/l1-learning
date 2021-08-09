@@ -1,0 +1,322 @@
+hash;user;time;comment
+4e70c54;ayyjohn;Sun May 9 20:20:50 2021;Fix capitalization of Dropbox (#511)
+6984b4e;Trần Tiến Đức;Tue Feb 16 03:14:06 2021;Fix LRU cache link (#505)
+9107b8a;Donne Martin;Tue Feb 16 03:10:03 2021;Fixing the indieflashblog address with archive.org since website has been discontinued (#500)
+ffc8123;Laurent Erignoux;Sun Jan 24 10:26:08 2021;Fixing the indieflashblog address with archive.org since website has been discontinued
+478a7d7;Abdalla Mohamed;Tue Dec 29 03:51:32 2020;Fix Celery URL (#486)
+f103307;Peter Yao;Fri Oct 30 02:14:45 2020;Update broken HBase architecture link (#481)
+53c0cf7;Ryo Shibayama;Sun Aug 2 20:13:17 2020;Fix translations link in PR template (#451)
+b7f255e;Isetty Ravi Teja Kumar;Sun Aug 2 20:10:22 2020;Fix #335: Update OSI image to Open Systems Interconnection (#447)
+7d39c44;Daniel Julius Lasiman;Sat Jul 18 03:15:47 2020;Remove Imgur dependency by storing images locally (#168)
+828014a;Donne Martin;Sun Jul 12 18:02:44 2020;Remove extraneous __init__.py (#393)
+f471578;Donne Martin;Sun Jul 12 18:00:04 2020;Resolve #281: Add design stock exchange links (#441)
+aaa0acc;Donne Martin;Sun Jul 12 17:58:35 2020;Update README.md
+b5173d6;Adam Dobrawy;Sat Jul 11 03:01:12 2020;Change disk to HDD for clarity (#295)
+cbaae48;Noe Brito;Fri Jul 10 02:49:43 2020;Clarify CDN advantages (#310)
+ad5435b;Varsha Muzumdar;Fri Jul 10 02:48:47 2020;Add links for latency based and geolocation based routing (#319)
+78e2eb5;Ganessh Kumar;Thu Jul 9 02:10:16 2020;Update dead links (#321)
+06b3ed2;Joilson Cisne;Wed Jul 8 02:56:05 2020;Fix loop bug in deck of cards exercise (#396)
+0beb557;Manas Gupta;Wed Jul 8 02:54:01 2020;Add CAP theorem video link (#400)
+2fe45a9;Harry Moreno;Tue Jul 7 05:53:01 2020;Additional question
+727a2f8;John Richardson;Tue Jul 7 03:05:50 2020;Remove redundant SQL index in Pastebin exercise (#405)
+cc11a9b;Vladimir Mikhaylov;Tue Jul 7 03:00:34 2020;Fix Mint exercise bugs and typos (#409)
+6d700ab;Youngchul Bang;Sun Jul 5 16:57:57 2020;kr: Fix Korean translation link in language index (#340)
+d3b3e78;Rahil;Sun Jul 5 16:53:28 2020;Add system design template link (#433)
+793f472;Nachiket Acharya;Sun Jul 5 16:50:31 2020;Fix #313: Clarify availability patterns (#439)
+2ac6512;Agade09;Sun Jul 5 16:48:23 2020;Fix typos in Twitter and web crawler exercises (#438)
+914736a;Kofi Forson;Sat Jul 4 16:55:42 2020;Update Twitter back-of-the-envelope calculations (#414)
+5d4dac6;Kevin Liu;Sat Jul 4 16:53:56 2020;Fix typo: Change replication to federation (#418)
+6020231;Sainadh Devireddy;Sat Jul 4 03:24:24 2020;Check dependencies in Ebook gen script (#406)
+d57b3d1;Neesara;Sat Jul 4 03:22:02 2020;Resolve #164 - Fix phrasing with availability and partition tolerance (#350)
+fca96ca;Donne Martin;Fri Jul 3 03:18:36 2020;Highlight translation request (#437)
+661c029;Donne Martin;Fri Jul 3 03:11:07 2020;Add status of translations (#436)
+b199766;Donne Martin;Thu Jul 2 02:54:05 2020;Add pull request template (#435)
+b4a7a09;Donne Martin;Thu Jul 2 02:48:43 2020;Update contributing guidelines for translations (#434)
+42aa63b;shiyujiucsb;Wed Jul 1 02:56:55 2020;Fix layer 7 load balancers typo (#317)
+f2d7dd8;panguncle;Wed Jul 1 02:42:24 2020;Fix single point of failure typo (#398)
+9a02480;Alexander Teno;Wed Jul 1 02:37:49 2020;Add missing comma in Mint solution (#399)
+b2fffe6;userstartupideas;Tue May 26 03:59:01 2020;"Update ""Scaling up to your first 10 million users"" link (#411)"
+449dc27;根号三;Mon Mar 30 02:40:50 2020;zh-Hans: Translate solutions (#392)
+ac806e4;Donne Martin;Tue Mar 10 02:46:02 2020;"Revert ""zh-cn: Sync with upstream to keep it up-to-date (#374)"" (#391)"
+301b9d8;根号三;Tue Mar 10 02:34:18 2020;zh-cn: Sync with upstream to keep it up-to-date (#374)
+8e9c891;Danny Jung;Mon Feb 17 03:00:44 2020;Fix broken link in CAP theorem section (#348)
+fc563ca;vyq;Tue Jan 21 01:26:09 2020;Fix broken CAP theorem link (#355)
+3b2264e;Dan Choi;Wed Jan 15 16:04:08 2020;Fix broken round robin links (#351)
+e50f269;Christian Clauss;Fri Dec 27 02:11:57 2019;Change raise NotImplemented to raise NotImplementedError (#345)
+eaa447c;SATO Yusuke;Mon Dec 9 04:35:44 2019;ja: Fix mistranslation in SQL tuning section (#305)
+3ea0b15;Brandon;Mon Dec 9 04:34:17 2019;zh-Hans: Change translation in SQL tuning (#318)
+fdba2a2;Duy Nguyen Hoang;Sun Nov 3 11:56:24 2019;Add API security checklist (#328)
+7d4a13d;SATO Yusuke;Wed Aug 14 01:51:20 2019;ja: Fix translation in Service Discovery section (#308)
+3e55f5b;SATO Yusuke;Wed Aug 14 01:50:53 2019;ja: Fix translation in “Disadvantage(s): load balancer” (#307)
+4bef27e;SATO Yusuke;Wed Aug 14 01:50:09 2019;"ja: Fix translation in ""Anki flashcards"" (#306)"
+9dc60cf;SATO Yusuke;Mon Aug 5 02:30:53 2019;JA: Fix mistranslation in Federation section (#303)
+eef185e;Donne Martin;Sat Aug 3 16:08:18 2019;Merge pull request #302 from satob/ReverseProxy
+041c42f;Donne Martin;Sat Aug 3 16:07:59 2019;ja: Fix translation in horizontal scaling section (#301)
+edbe857;SATO Yusuke;Sat Aug 3 16:07:34 2019;JA: Fix mistranslation in Push CDNs section (#300)
+b4135dd;SATO Yusuke;Sat Aug 3 16:06:57 2019;JA: Fix mistranslation in Weak consistency section (#299)
+78d15fd;SATO Yusuke;Fri Jul 26 17:22:56 2019;"ja: Fix mistranslation in ""Horizontal scaling"""
+109235b;SATO Yusuke;Wed Jul 10 17:13:11 2019;JA: Fix mistranslation in Reverse proxy (web server) section
+f78db9e;SATO Yusuke;Mon Jul 8 17:57:34 2019;JA: Fix mistranslation in Horizontal scaling section
+c65a721;Yuya Ma'emichi;Sat Jul 6 17:07:13 2019;ja: Fix typo of Big-O notation in KVS section (#292)
+3E+10;Kevin Xu;Sun Jun 16 17:21:21 2019;zh-Hans: Translate Pastebin solution (#273)
+9ce0e9d;Donne Martin;Fri May 31 02:25:26 2019;Add Hebrew translation link (#286)
+a95a293;Donne Martin;Tue May 14 03:56:36 2019;Update language lists in translations (#280)
+dd15249;minhaz;Sun May 12 13:19:23 2019;Add availability in numbers section (#237)
+55d09f6;Simon Knott;Sun May 12 12:21:14 2019;Add Ebook generation script (#207)
+0022c97;Sébastien Puyet;Sat May 11 18:42:58 2019;Translate language list (#252)
+116634f;Manas Karekar;Tue May 7 12:24:41 2019;Enable syntax highlighting in all python code snippets (#268)
+8b04d4d;leontyr;Tue May 7 12:22:12 2019;Update HDFS design link to the latest version (#275)
+1a9eefe;Donne Martin;Wed Apr 10 02:46:59 2019;Add article link: How Twitter Handles 3
+fda859e;Sean Han;Mon Mar 18 01:55:19 2019;Fix broken SQL link in Scaling AWS exercise (#258)
+82d80a0;Manas Karekar;Mon Mar 4 04:28:43 2019;Enable Python syntax highlighting in Pastebin sample code (#257)
+38d18fb;yiksanchan;Thu Feb 28 12:55:50 2019;Update document-store to document store (#255)
+e276822;glusa8;Mon Feb 11 11:48:36 2019;Fix typo in Twitter timeline and search solution (#251)
+970d006;glusa8;Sun Feb 3 13:35:24 2019;Fix grammar in document store section (#247)
+1144b8e;Guo;Sun Jan 20 20:59:42 2019;zh-Hans: Fix typo (#246)
+1E+68;Juan Eugenio Abadie;Sat Jan 5 18:20:17 2019;Add missing word in cache write through discussion (#245)
+75298db;Donne Martin;Fri Dec 28 01:39:11 2018;Add Bengali translation link (#242)
+6a57d06;Saurav;Wed Dec 19 03:17:00 2018;Fix #228: Address mutex latency discrepancy (#233)
+02c0827;Chang Liu;Wed Nov 14 02:23:21 2018;Add Link: A 360 Degree View Of The Entire Netflix Stack (#229)
+96ec8d5;reiscigit;Wed Oct 31 23:34:52 2018;zh-TW: Update index anchors (#227)
+2269bf7;Masao;Fri Oct 26 02:20:26 2018;ja: Fix typo (#226)
+9d0316f;Michael de Cardery;Thu Oct 11 03:13:42 2018;Update Scalability for Dummies link (#224)
+8437d77;Pramod Gupta;Mon Oct 1 02:38:28 2018;Resolve #214: Add reference links to message queues section (#218)
+eb91072;Donne Martin;Mon Sep 24 02:12:12 2018;Update README intro (#216)
+74e0e9b;brunoffsp;Wed Sep 19 02:10:26 2018;Update Cassandra architecture links (#213)
+c816b41;dajiao007;Sun Sep 16 09:48:51 2018;zh-Hans: Update translation (#209)
+203bc82;Xu;Sat Sep 15 09:29:03 2018;zh-Hans: Update translation (#212)
+b7037c0;hi大头鬼hi;Fri Sep 14 23:10:39 2018;zh-Hans: Fix translation (#208)
+4c37b06;Fabrizio Cucci;Sat Sep 8 02:47:43 2018;Fix typo in Design Pastebin.com exercise (#210)
+e472695;dvanbrug;Sun Sep 2 20:10:42 2018;Fix #126: Update link to Anki decks (#206)
+cac4d75;Karoliina Oksanen;Wed Aug 29 02:56:38 2018;Fix broken links (#204)
+cc5d862;Varun;Fri Aug 24 08:24:59 2018;Fix typo in CAP theorem section (#205)
+ab5fbeb;Fabrizio Cucci;Mon Aug 20 06:38:43 2018;Update Twitter/Facebook exercise description (#202)
+5a23f6b;meteor;Tue Aug 14 04:32:16 2018;zh-Hans: Fix typo: 'Twitter' (#200)
+1f939ec;Narendra Choudhary Legha;Mon Aug 13 02:49:30 2018;Resolve #195: Fix broken GitHub URLs (#199)
+ffbcd9a;Ali;Thu Aug 9 14:01:27 2018;Fix wording in call center solution (#197)
+f5dde5f;hekra01;Tue Aug 7 03:24:59 2018;Fix error in Twitter timeline solution (#196)
+cd7ac6d;Girish Raman;Sun Aug 5 15:52:03 2018;Fix broken URL (#194)
+9c4c603;Donne Martin;Thu Aug 2 00:18:41 2018;Add Thai translation link (#190)
+c8392e3;Donne Martin;Mon Jul 30 04:05:41 2018;Add German translation link (#188)
+f350860;Igor Zboichik;Wed Jul 25 03:55:54 2018;Fix broken links (#180)
+136c0b9;Kevin Vandenborne;Mon Jul 23 08:13:03 2018;Fix typo in LRU cache solution (#182)
+bda2a5f;Davis;Fri Jul 20 06:46:35 2018;zh-TW: Improve translations (#176)
+924570e;cclauss;Thu Jul 19 08:09:09 2018;Add newlines - PEP8 style (#173)
+1753091;Donne Martin;Wed Jul 18 06:58:14 2018;Add Arabic translation link (#177)
+e46d72a;Yusuke Otsuka;Sun Jul 15 02:05:15 2018;ja: Swap VARCHAR and CHAR translation error (#169)
+e116bd7;cclauss;Sun Jul 15 02:01:57 2018;Fix #148: Add State(Enum) to social_graph_snippets.py (#167)
+9069993;breakliu;Fri Jul 13 13:32:14 2018;zh-Hans: Fix PostgreSQL typo (#166)
+d832db4;Nikolas Kanakis;Fri Jun 29 05:18:11 2018;Replace broken SQL tuning links (#163)
+6f13504;yangyangyang;Sat Jun 16 07:30:42 2018;zh-Hans: Fix typo (#161)
+ad40b8e;cclauss;Wed May 23 05:15:42 2018;Change variable seller to category in Mint solution (#159)
+a360483;cclauss;Mon May 7 03:26:01 2018;Add missing enum imports (#157)
+4a7d2e4;cclauss;Mon May 7 03:25:31 2018;Adding missing self variable (#158)
+a70a8f3;Anton Hulikau;Thu Apr 26 03:22:26 2018;Fix dict KeyError (#153)
+e50e200;Anton Hulikau;Thu Apr 26 03:22:05 2018;Fix dict KeyError (#152)
+fb66242;cclauss;Thu Apr 26 03:19:04 2018;Fix coding errors (#149)
+bb49172;KUAN Hsuan-Tso;Wed Apr 11 02:28:15 2018;zh-TW: Fix comment format (#155)
+1b339db;cclauss;Mon Apr 9 02:25:11 2018;Change LARGE to VehicleSize.LARGE in parking lot solution (#146)
+ea262de;cclauss;Sun Mar 25 00:38:34 2018;Add deque import to Social Graph solution (#147)
+b156e48;cclauss;Sun Mar 18 14:21:52 2018;Add missing self variables to Deck of Cards solution (#145)
+178943;cclauss;Sun Mar 18 14:19:08 2018;Add missing colons to class methods (#143)
+38a93dc;Donne Martin;Thu Mar 8 02:38:49 2018;Add Spanish translation link (#142)
+e53b20b;Robert;Thu Mar 8 02:37:45 2018;zh-Hans: Fix typos (#141)
+f099a0a;cclauss;Wed Mar 7 01:37:46 2018;Convert all .py files to be valid Python (#98)
+3ca1f1d;Donne Martin;Tue Mar 6 02:29:07 2018;Add Greek translation link (#140)
+b566126;kevingo;Sun Mar 4 20:14:45 2018;zh-TW: Add proper line break to links (#139)
+c3c59c9;kevingo;Wed Feb 28 03:41:23 2018;Add Traditional Chinese translation (#133)
+8744c03;Chang Liu;Tue Feb 27 04:45:52 2018;Merge branch 'master' into add-twitter
+f952d6a;George Javakhidze;Tue Feb 27 03:28:04 2018;Update re:Invent url (#137)
+2e1627e;Donne Martin;Fri Feb 23 04:49:17 2018;Update contributing guidelines - PR squash (#135)
+8b29a85;Chang Liu;Fri Feb 16 02:37:45 2018;Add Facebook Live Streams (#125)
+f6b7d3c;Christopher;Thu Feb 8 01:57:00 2018;Update master-slave section anchor (#129)
+ca674d8;Chang Liu;Sat Feb 3 00:08:50 2018;Add Scaling Uber in Company Architecture (#123)
+017884e;Donne Martin;Wed Jan 24 06:26:59 2018;Add Vietnamese translation link (#128)
+90b1bc4;Chang Liu;Sun Jan 21 17:54:59 2018;Add Netflix in Company Architectures (#122)
+f4fed18;fluency03;Sat Jan 6 14:06:49 2018;add Twitter Handles 3
+9481662;Donne Martin;Sat Jan 6 01:25:20 2018;Make some minor wording/formatting changes (#120)
+7310acf;Koudai Sakabe;Fri Dec 8 02:18:26 2017;ja: Fix typo (#119)
+7bd31dc;Donne Martin;Sun Dec 3 13:09:41 2017;Update Japanese translation link (#118)
+7dfeae6;yutaka kobayashi;Sat Dec 2 02:15:57 2017;Add Japanese Translation (#114)
+d62b499;Tony Yao;Thu Nov 30 02:12:15 2017;Correct Redis list structure in Twitter solution (#116)
+f631baa;Donne Martin;Fri Nov 3 01:03:29 2017;Add Persian translation link (#115)
+6c4c2ab;Bryan Jennings;Wed Oct 25 03:05:59 2017;Simplify logic for is_ace and is_face_card in deck of cards solution (#113)
+2aa2166;Donne Martin;Sat Oct 14 02:26:47 2017;Add Korean translation link (#111)
+a2d0a3d;Rishabh Maurya;Mon Oct 9 02:52:44 2017;Add API rate limiter design link (#108)
+eb318fa;Samar Dhwoj Acharya;Sat Oct 7 18:06:37 2017;Fix typo: considering to consider in scaling AWS solution (#109)
+98cf88e;Donne Martin;Sun Sep 24 13:43:54 2017;Add Italian translation link (#106)
+9fca092;Donne Martin;Wed Sep 20 01:30:44 2017;Add traditional Chinese translation link (#105)
+7f9c998;Donne Martin;Fri Sep 15 03:05:01 2017;Add Japanese translation link (#101)
+2d94e2d;Donne Martin;Wed Aug 30 02:13:02 2017;Treat solution subdirectories as containing Python packages (#99)
+8fa019b;Donne Martin;Sun Jul 23 18:07:36 2017;Add Russian translation link (#91)
+982304b;Tay Yang Shun;Tue Jul 18 04:29:28 2017;Add policy for adding new blogs to Company engineering blogs section (#96)
+6914cd9;Olaf van der Spek;Tue Jul 18 04:08:36 2017;Fix typo in denormalization section (#95)
+708756a;Donne Martin;Sat Jul 1 18:07:08 2017;Add polish translation link (#89)
+cc48058;Arash Rouhani;Wed Jun 14 02:43:11 2017;Fix reducer argument in pastebin exercise (#85)
+17e5fb7;Ian Park;Tue Jun 6 02:25:04 2017;Add prev to Node class (#82)
+4badddd;Ian Park;Tue May 30 02:55:32 2017;Init spot_size member in parking lot exercise (#83)
+e168c58;CharlesSantiago;Sat May 27 02:32:45 2017;Fix typo (#75)
+960bf1b;Kangkai Tang;Sat May 27 02:31:31 2017;Fix #79: Inaccuracy in Twitter timeline and search example (#81)
+d0f018a;Sergey Saiyan;Tue May 16 06:17:24 2017;Fix lowercase typo in Layer 7 load balancing title (#74)
+cbbb548;Larry Lv;Tue May 16 06:10:51 2017;Fix asynchronism link in Mint README (#69)
+019eaaf;Donne Martin;Fri May 12 06:49:37 2017;Add license disclaimer (#76)
+5072dfe;Donne Martin;Mon Apr 17 00:06:31 2017;Update translation links (#65)
+5517013;根号三;Sun Apr 16 23:49:15 2017;zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md (#64)
+1ae841a;根号三;Sat Apr 15 15:32:32 2017;zh-cn: Add Simplified Chinese translation v1.0 (#62)
+95b4d92;Donne Martin;Sat Apr 15 02:35:50 2017;Update translations section in contributing guidelines (#61)
+2986f71;Iñaki Abete;Fri Apr 14 03:04:38 2017;Fix Coding deck broken link (#59)
+99acefa;Donne Martin;Mon Apr 10 13:04:43 2017;Update Translations section (#57)
+aecb070;Donne Martin;Sun Apr 9 19:15:57 2017;Update system design flashcards (#56)
+424c346;Ben Gadbois;Sat Apr 8 02:20:37 2017;Change Pull CDN wording for clarity (#55)
+32a537b;zanemayo;Tue Apr 4 11:56:38 2017;Change AP wording for clarity (#50)
+8a263f9;Donne Martin;Mon Apr 3 12:41:00 2017;Add reference to interactive coding challenges repo (#49)
+15fe159;Donne Martin;Sun Apr 2 14:34:48 2017;Merge pull request #48 from donnemartin/develop
+7f6d52e;Donne Martin;Sun Apr 2 14:26:33 2017;Add web crawler OmniGraffle diagrams
+8fcd565;Donne Martin;Sun Apr 2 14:26:21 2017;Add twitter OmniGraffle diagrams
+d84d3f5;Donne Martin;Sun Apr 2 14:26:11 2017;Add social graph OmniGraffle diagrams
+9d4bec4;Donne Martin;Sun Apr 2 14:26:02 2017;Add scaling aws OmniGraffle diagram
+4E+65;Donne Martin;Sun Apr 2 14:25:47 2017;Add sales rank OmniGraffle diagrams
+1f7d78b;Donne Martin;Sun Apr 2 14:25:39 2017;Add query cache OmniGraffle diagrams
+0c3a785;Donne Martin;Sun Apr 2 14:25:28 2017;Add pastebin OmniGraffle diagrams
+f8f32e9;Donne Martin;Sun Apr 2 14:24:47 2017;Add mint OmniGraffle diagrams
+408a3f4;Donne Martin;Sun Apr 2 14:22:42 2017;Add study guide OmniGraffle diagram and image
+9a8a2fb;Donne Martin;Sun Apr 2 14:21:37 2017;Add OmniGraffle base template
+7ac68aa;Donne Martin;Sun Apr 2 14:09:50 2017;Merge pull request #47 from donnemartin/develop
+591fa4f;Donne Martin;Sun Apr 2 14:04:58 2017;Change large scale -> large-scale
+8fc20e6;Donne Martin;Sun Apr 2 14:02:03 2017;Fix caps and punctuation in RPC section
+d40ba34;Donne Martin;Sun Apr 2 14:00:20 2017;Add sources and further reading to HTTP section
+4d30304;JP;Wed Mar 29 12:19:14 2017;Explain difference between PUT & PATCH (#35)
+b9acf6a;Donne Martin;Tue Mar 28 13:45:13 2017;Merge pull request #36 from donnemartin/mad01-change-zookeeper-as-sd
+53896a0;Donne Martin;Mon Mar 27 13:21:07 2017;Add translations to contributing guidelines (#37)
+ea461bf;Donne Martin;Sun Mar 26 18:50:23 2017;Polish service discovery changes
+619b5c9;Alexander Brandstedt;Fri Mar 24 12:30:09 2017;Change service discovery example to use consul/etcd
+3021a3a;Yadong Wen;Fri Mar 24 03:42:02 2017;Fix typos (#33)
+0c8be40;Donne Martin;Thu Mar 23 04:20:57 2017;Add call for translations link (#30)
+ae13db3;Yadong Wen;Thu Mar 23 03:53:15 2017;Fix typo (#29)
+40b5be2;Roxas Shadow;Tue Mar 21 12:39:10 2017;Declare variable key in the get_user example (#26)
+f1ae855;Jakub Janarek;Sun Mar 19 20:24:13 2017;Fix typo JSS -> JS (#25)
+e417324;Federico Baldassarre;Sun Mar 19 20:23:03 2017;Fix #6: Migrate links from exercises/solutions to use internal links (#23)
+eaed5dd;Balki Kodarapu;Sat Mar 18 16:37:16 2017;Delete duplicate does in 3 design examples (#24)
+5fa4136;Donne Martin;Wed Mar 15 11:59:28 2017;Add high scalability to credits (#22)
+390d0d5;Donne Martin;Mon Mar 13 11:42:35 2017;Update OO exercises index (#21)
+a071e4a;Donne Martin;Mon Mar 13 11:40:02 2017;Update Study guide section (#20)
+e5df3f5;Donne Martin;Sun Mar 12 22:17:29 2017;Update Motivation section (#19)
+eb2a6cb;Luis de Bethencourt;Sat Mar 11 17:59:58 2017;Fix typo in RPC section (#17)
+69d4e5a;Sudarshan (Sid);Sat Mar 11 03:07:50 2017;Add Dyn DDoS attack link (#13)
+65c056f;Mostafa Gaafar;Sat Mar 11 03:06:34 2017;Fix multiple typos (#14)
+b34e167;Tay Yang Shun;Fri Mar 10 01:40:12 2017;Add more disadvantages of REST (#9)
+aaecc59;James Hewitt;Fri Mar 10 01:37:39 2017;Fix typo - lobsided -> lopsided (#11)
+16651d5;Luis de Bethencourt;Fri Mar 10 01:36:11 2017;Fix typo in Study Guide section (#10)
+684679f;Donne Martin;Thu Mar 9 05:31:08 2017;Fix #1: Update reverse proxy image (#8)
+0889f04;Donne Martin;Thu Mar 9 04:20:23 2017;Resolve #3: Fix broken links in exercises (#5)
+7e9b9b2;Donne Martin;Wed Mar 8 12:00:32 2017;Update system design flashcards
+6e1ef23;Donne Martin;Wed Mar 8 14:52:19 2017;Update header image
+4fb0c67;Donne Martin;Wed Mar 8 14:51:02 2017;Update Anki flashcards section
+1276c8a;Donne Martin;Wed Mar 8 06:37:26 2017;Add Anki flashcards section
+624e0c2;Donne Martin;Wed Mar 8 06:37:11 2017;Simplify online chat solution
+992cd5b;Donne Martin;Wed Mar 8 06:36:02 2017;Rework motivation and guide
+ed2d35e;Donne Martin;Wed Mar 8 06:27:48 2017;Add Anki flashcards
+dc2b8f7;Donne Martin;Wed Mar 8 05:05:10 2017;Update Study Guide section
+2c1329b;Donne Martin;Wed Mar 8 05:04:51 2017;Update Motivation section
+a9cc1c0;Donne Martin;Wed Mar 8 05:04:31 2017;Move several sections to Appendix
+28137d3;Donne Martin;Wed Mar 8 04:50:36 2017;Fix chat server solution link
+18cb6ce;Donne Martin;Wed Mar 8 04:18:07 2017;Clean up under dev index
+50d3d7e;Donne Martin;Wed Mar 8 04:16:25 2017;Fix Remote procedure call (RPC) section header
+43cd75f;Donne Martin;Wed Mar 8 04:15:39 2017;Add Master-master replication link
+dd618e2;Donne Martin;Wed Mar 8 04:14:49 2017;Remove dead Scaling SQL link
+419f29a;Donne Martin;Wed Mar 8 04:14:19 2017;Fix Relational database management system (RDBMS) link
+eaf8fda;Donne Martin;Wed Mar 8 04:13:44 2017;Fix availability and partition tolerance link
+7027b8d;Donne Martin;Wed Mar 8 04:13:28 2017;Fix consistency and partition tolerance link
+4f987a2;Donne Martin;Mon Mar 6 04:30:00 2017;Add CONTRIBUTING.md
+4c4c0d9;Donne Martin;Mon Mar 6 04:27:24 2017;Add LICENSE.txt
+6d884cf;Donne Martin;Mon Mar 6 04:25:59 2017;Add .gitignore
+547db24;Donne Martin;Mon Mar 6 04:25:43 2017;Add .gitattributes
+fab2df6;Donne Martin;Sun Mar 5 06:07:31 2017;Add Scaling AWS solution
+e60de17;Donne Martin;Sun Mar 5 06:06:58 2017;Add Web Crawler solution
+e577dda;Donne Martin;Sun Mar 5 06:06:40 2017;Add Twitter solution
+66e4348;Donne Martin;Sun Mar 5 06:06:28 2017;Add Social Graph solution
+edc404e;Donne Martin;Sun Mar 5 06:06:17 2017;Add Sales Rank solution
+d484f80;Donne Martin;Sun Mar 5 06:06:04 2017;Add Query Cache solution
+a2e9217;Donne Martin;Sun Mar 5 06:05:53 2017;Add Pastebin solution
+7fb0ca8;Donne Martin;Sun Mar 5 06:05:31 2017;Add Mint solution
+831906f;Donne Martin;Sat Mar 4 03:54:23 2017;Add Parking Lot Solution
+616710f;Donne Martin;Sat Mar 4 03:54:08 2017;Add Online Chat solution
+ae9832c;Donne Martin;Sat Mar 4 03:53:54 2017;Add LRU Cache solution
+7595e2a;Donne Martin;Sat Mar 4 03:53:41 2017;Add Hash Table solution
+0f517c7;Donne Martin;Sat Mar 4 03:51:00 2017;Add Deck of Cards solution
+1E+07;Donne Martin;Sat Mar 4 03:50:44 2017;Add Call Center solution
+7eb6940;Donne Martin;Fri Mar 3 04:49:59 2017;Add License section
+d4e4850;Donne Martin;Fri Mar 3 04:49:38 2017;Add Contact info section
+cdcc34a;Donne Martin;Fri Mar 3 04:49:19 2017;Add Credits section
+51ef417;Donne Martin;Fri Mar 3 04:49:03 2017;Add Under development section
+4646b09;Donne Martin;Fri Mar 3 04:48:45 2017;Add Latency numbers every programmer should know section
+1f30e78;Donne Martin;Fri Mar 3 04:45:07 2017;Add Powers of two table
+609a75a;Donne Martin;Fri Mar 3 04:44:33 2017;Add Security section
+1721a84;Donne Martin;Fri Mar 3 04:42:54 2017;Add RPC and REST calls comparison section
+33d26b8;Donne Martin;Fri Mar 3 04:42:25 2017;Add Representational state transfer (REST) section
+9d9cd8c;Donne Martin;Fri Mar 3 04:31:16 2017;Add Remote procedural call (RPC) section
+9a3a2c4;Donne Martin;Thu Mar 2 05:44:42 2017;Add User datagram protocol (UDP) section
+d93918d;Donne Martin;Thu Mar 2 05:44:16 2017;Add Transmission control protocol (TCP) section
+297af21;Donne Martin;Thu Mar 2 05:44:00 2017;Add Hypertext transfer protocol (HTTP) section
+8175622;Donne Martin;Thu Mar 2 05:43:44 2017;Add Communication intro image
+09963c0;Donne Martin;Thu Mar 2 05:42:55 2017;Add Async disadvantages and further reading sections
+492a2be;Donne Martin;Thu Mar 2 05:42:13 2017;Add Back pressure section
+fcb6195;Donne Martin;Thu Mar 2 05:41:48 2017;Add Task queues section
+c931a85;Donne Martin;Thu Mar 2 05:41:24 2017;Add Message queues section
+87c4faf;Donne Martin;Thu Mar 2 05:40:25 2017;Add Asynchronism intro section
+8b97476;Donne Martin;Thu Mar 2 05:39:10 2017;Add cache disadvantages and further reading sections
+03ceca8;Donne Martin;Thu Mar 2 05:38:45 2017;Add Refresh-ahead section
+4b1cde2;Donne Martin;Thu Mar 2 05:38:17 2017;Add Write-behind (write-back) section
+09ee779;Donne Martin;Thu Mar 2 05:37:59 2017;Add Write-through section
+adda68c;Donne Martin;Thu Mar 2 05:37:36 2017;Add Cache-aside section
+1945024;Donne Martin;Thu Mar 2 05:37:12 2017;Add Caching at the database query level vs obj level sections
+e161b29;Donne Martin;Thu Mar 2 05:36:47 2017;Add Application caching section
+7071638;Donne Martin;Thu Mar 2 05:36:29 2017;Add client
+0d0814f;Donne Martin;Tue Feb 28 14:08:07 2017;Add Cache intro section
+e32821d;Donne Martin;Tue Feb 28 14:06:59 2017;Add SQL or NoSQL section
+016665e;Donne Martin;Tue Feb 28 14:06:42 2017;Add Graph database section
+52713ec;Donne Martin;Tue Feb 28 14:06:15 2017;Add Wide column store section
+b5f0815;Donne Martin;Tue Feb 28 14:06:00 2017;Add Document store section
+c6ac09f;Donne Martin;Tue Feb 28 14:04:37 2017;Add Key-value store section
+c83d146;Donne Martin;Tue Feb 28 14:04:09 2017;Add NoSQL intro section
+b549ea4;Donne Martin;Tue Feb 28 14:03:48 2017;Add SQL tuning section
+4efe7fb;Donne Martin;Tue Feb 28 14:03:29 2017;Add Denormalization section
+c361ea1;Donne Martin;Tue Feb 28 14:03:08 2017;Add Sharding section
+18611be;Donne Martin;Tue Feb 28 14:02:44 2017;Add Federation section
+d753508;Donne Martin;Tue Feb 28 14:02:21 2017;Add Master-master replication section
+c4dc4b0;Donne Martin;Tue Feb 28 14:01:54 2017;Add Master-slave replication section
+e596fd9;Donne Martin;Tue Feb 28 14:01:31 2017;Add Relational database management system section
+94aea15;Donne Martin;Tue Feb 28 14:01:15 2017;Add Application layer section
+173e4f6;Donne Martin;Mon Feb 27 14:21:05 2017;Add Reverse proxy section
+4358539;Donne Martin;Mon Feb 27 14:20:25 2017;Add Load balancer section
+47359db;Donne Martin;Mon Feb 27 14:19:59 2017;Add Content delivery network section
+001c5c8;Donne Martin;Mon Feb 27 14:19:33 2017;Add Domain name system section
+801d52b;Donne Martin;Mon Feb 27 14:19:11 2017;Add Availability patterns section
+156ddb1;Donne Martin;Mon Feb 27 14:18:05 2017;Add Consistency patterns section
+3f20a5f;Donne Martin;Mon Feb 27 14:16:55 2017;Add Availability vs consistency section
+8abdbf6;Donne Martin;Mon Feb 27 14:06:28 2017;Add Latency vs throughput section
+116851d;Donne Martin;Mon Feb 27 14:06:10 2017;Add Performance vs scalability section
+9aee5ed;Donne Martin;Mon Feb 27 14:05:53 2017;Add System design topics: start here section
+8c46ed3;Donne Martin;Mon Feb 27 14:05:23 2017;Add Company engineering blogs section
+a71b3a2;Donne Martin;Mon Feb 27 14:04:53 2017;Add Company architectures section
+d45c499;Donne Martin;Mon Feb 27 14:04:21 2017;Add Real world architectures section
+074d5d2;Donne Martin;Mon Feb 27 14:03:46 2017;Add Additional system design interview questions section
+102bcc5;Donne Martin;Mon Feb 27 14:02:50 2017;Add Object-oriented design interview questions with solutions section
+4236876;Donne Martin;Mon Feb 27 14:02:16 2017;Update repo links to reflect repo rename
+0468b8c;Donne Martin;Sun Feb 26 14:22:40 2017;Add Design a system that scales to millions of users on AWS image
+be5e694;Donne Martin;Sun Feb 26 14:22:20 2017;Add Design Amazon's sales ranking by category feature image
+068480a;Donne Martin;Sun Feb 26 14:21:16 2017;Add Design a key-value store for a search engine image
+70cd43c;Donne Martin;Sun Feb 26 14:20:43 2017;Add Design the data structures for a social network image
+494cd2a;Donne Martin;Sun Feb 26 14:19:59 2017;Add Design Mint.com image
+9663417;Donne Martin;Sun Feb 26 14:19:35 2017;Add Design a web crawler image
+5dcf504;Donne Martin;Sun Feb 26 14:19:05 2017;Add Design the Twitter timeline and search image
+decb916;Donne Martin;Sun Feb 26 14:18:17 2017;Add Design Pastebin.com image
+fc97ef9;Donne Martin;Sun Feb 26 14:16:05 2017;Add system design interview questions with solutions section
+c0bbd9d;Donne Martin;Sun Feb 26 14:12:28 2017;Add how to approach a system design interview question section
+37990f0;Donne Martin;Sun Feb 26 14:11:32 2017;Add study guide section
+5e9e21c;Donne Martin;Sun Feb 26 14:11:11 2017;Add index section
+3bfedf4;Donne Martin;Sun Feb 26 14:10:48 2017;Add contributing section
+35f22bb;Donne Martin;Sun Feb 26 14:10:29 2017;Add design interview prep discussion
+782047;Donne Martin;Sun Feb 26 14:10:03 2017;Add motivation section
+ee6227a;Donne Martin;Sun Feb 26 14:09:37 2017;Add header image
+976d90f;Donne Martin;Sun Feb 26 14:08:55 2017;Initial commit

@@ -1,0 +1,632 @@
+[
+  [
+    {
+      "username": "ga65hif",
+      "score": 1,
+      "issuekey": "PITL1-80",
+      "summary": "Change time to cyclical representation"
+    },
+    {},
+    {},
+    {}
+  ],
+  [
+    {
+      "username": "zhiyiniu",
+      "score": 2,
+      "issuekey": "PITL1-79",
+      "summary": "Create working prototype"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-79",
+      "summary": "Create working prototype"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-79",
+      "summary": "Create working prototype"
+    },
+    {
+      "username": "ga65hif",
+      "score": 1,
+      "issuekey": "PITL1-79",
+      "summary": "Create working prototype"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-57",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-57",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-57",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-57",
+      "summary": "Write personal reflection report"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-56",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-56",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-56",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-56",
+      "summary": "Write personal reflection report"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-55",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-55",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-55",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-55",
+      "summary": "Write personal reflection report"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-54",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-54",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-54",
+      "summary": "Write personal reflection report"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-54",
+      "summary": "Write personal reflection report"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-50",
+      "summary": "Analysis of Jira data and use NLP model to find similar incidents to a newly created incident"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-50",
+      "summary": "Analysis of Jira data and use NLP model to find similar incidents to a newly created incident"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-50",
+      "summary": "Analysis of Jira data and use NLP model to find similar incidents to a newly created incident"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-50",
+      "summary": "Analysis of Jira data and use NLP model to find similar incidents to a newly created incident"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 4,
+      "issuekey": "PITL1-48",
+      "summary": "Estimated response time (for slack messages)"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-48",
+      "summary": "Estimated response time (for slack messages)"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-48",
+      "summary": "Estimated response time (for slack messages)"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-48",
+      "summary": "Estimated response time (for slack messages)"
+    }
+  ],
+  [
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-22",
+      "summary": "Fetching related incidents/bugs similar to a new assigned incident"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-22",
+      "summary": "Fetching related incidents/bugs similar to a new assigned incident"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-22",
+      "summary": "Fetching related incidents/bugs similar to a new assigned incident"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-22",
+      "summary": "Fetching related incidents/bugs similar to a new assigned incident"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 5,
+      "issuekey": "PITL1-21",
+      "summary": "Jira - While developing, if the developer is blocked by some problems, suggest the people who will be most helpful to find solutions"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-21",
+      "summary": "Jira - While developing, if the developer is blocked by some problems, suggest the people who will be most helpful to find solutions"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 4,
+      "issuekey": "PITL1-21",
+      "summary": "Jira - While developing, if the developer is blocked by some problems, suggest the people who will be most helpful to find solutions"
+    },
+    {
+      "username": "ga65hif",
+      "score": 3,
+      "issuekey": "PITL1-21",
+      "summary": "Jira - While developing, if the developer is blocked by some problems, suggest the people who will be most helpful to find solutions"
+    }
+  ],
+  [
+    {
+      "username": "zhiyiniu",
+      "score": 4,
+      "issuekey": "PITL1-20",
+      "summary": "Check code cleanness and if it is understandable for others"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-20",
+      "summary": "Check code cleanness and if it is understandable for others"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-20",
+      "summary": "Check code cleanness and if it is understandable for others"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-20",
+      "summary": "Check code cleanness and if it is understandable for others"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-19",
+      "summary": "Detect the quality of the code, especially the dangerous lines of code"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 2,
+      "issuekey": "PITL1-19",
+      "summary": "Detect the quality of the code, especially the dangerous lines of code"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-19",
+      "summary": "Detect the quality of the code, especially the dangerous lines of code"
+    },
+    {
+      "username": "ga65hif",
+      "score": 1,
+      "issuekey": "PITL1-19",
+      "summary": "Detect the quality of the code, especially the dangerous lines of code"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 4,
+      "issuekey": "PITL1-18",
+      "summary": "Estimate project delivery time based on other projects"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-18",
+      "summary": "Estimate project delivery time based on other projects"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-18",
+      "summary": "Estimate project delivery time based on other projects"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-18",
+      "summary": "Estimate project delivery time based on other projects"
+    }
+  ],
+  [
+    {
+      "username": "zhiyiniu",
+      "score": 6,
+      "issuekey": "PITL1-17",
+      "summary": "Jira - Recommendation System: Finding developers who has previously worked on related incidents/bugs"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 5,
+      "issuekey": "PITL1-17",
+      "summary": "Jira - Recommendation System: Finding developers who has previously worked on related incidents/bugs"
+    },
+    {
+      "username": "ga65hif",
+      "score": 4,
+      "issuekey": "PITL1-17",
+      "summary": "Jira - Recommendation System: Finding developers who has previously worked on related incidents/bugs"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-17",
+      "summary": "Jira - Recommendation System: Finding developers who has previously worked on related incidents/bugs"
+    }
+  ],
+  [
+    {
+      "username": "zhiyiniu",
+      "score": 6,
+      "issuekey": "PITL1-16",
+      "summary": "Make use of ML and analyze an individual performance"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 5,
+      "issuekey": "PITL1-16",
+      "summary": "Make use of ML and analyze an individual performance"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 5,
+      "issuekey": "PITL1-16",
+      "summary": "Make use of ML and analyze an individual performance"
+    },
+    {
+      "username": "ga65hif",
+      "score": 5,
+      "issuekey": "PITL1-16",
+      "summary": "Make use of ML and analyze an individual performance"
+    }
+  ],
+  [
+    {
+      "username": "saury.pande@tum.de",
+      "score": 2,
+      "issuekey": "PITL1-13",
+      "summary": "Detect false attribution"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-13",
+      "summary": "Detect false attribution"
+    },
+    {
+      "username": "ga65hif",
+      "score": 1,
+      "issuekey": "PITL1-13",
+      "summary": "Detect false attribution"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 1,
+      "issuekey": "PITL1-13",
+      "summary": "Detect false attribution"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-12",
+      "summary": "Jira - Detect which task take very long and potentially hold up other tasks and project progress"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-12",
+      "summary": "Jira - Detect which task take very long and potentially hold up other tasks and project progress"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-12",
+      "summary": "Jira - Detect which task take very long and potentially hold up other tasks and project progress"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-12",
+      "summary": "Jira - Detect which task take very long and potentially hold up other tasks and project progress"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-11",
+      "summary": "Jira & Git - Detect developer workload & overtime by analyzing commit times and how long jira tasks are open before finished"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 4,
+      "issuekey": "PITL1-11",
+      "summary": "Jira & Git - Detect developer workload & overtime by analyzing commit times and how long jira tasks are open before finished"
+    },
+    {
+      "username": "ga65hif",
+      "score": 3,
+      "issuekey": "PITL1-11",
+      "summary": "Jira & Git - Detect developer workload & overtime by analyzing commit times and how long jira tasks are open before finished"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-11",
+      "summary": "Jira & Git - Detect developer workload & overtime by analyzing commit times and how long jira tasks are open before finished"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-10",
+      "summary": "Web - Dashboard where employee can block specific people/everyone from accessing their data by data type (e.g. slack, git, jira)"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-10",
+      "summary": "Web - Dashboard where employee can block specific people/everyone from accessing their data by data type (e.g. slack, git, jira)"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-10",
+      "summary": "Web - Dashboard where employee can block specific people/everyone from accessing their data by data type (e.g. slack, git, jira)"
+    },
+    {
+      "username": "ga65hif",
+      "score": 1,
+      "issuekey": "PITL1-10",
+      "summary": "Web - Dashboard where employee can block specific people/everyone from accessing their data by data type (e.g. slack, git, jira)"
+    }
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-9",
+      "summary": "Web - Privacy Dashboard with an overview of who requested what kind of information at which time for what reason and on what level (personal/aggregated data)"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-9",
+      "summary": "Web - Privacy Dashboard with an overview of who requested what kind of information at which time for what reason and on what level (personal/aggregated data)"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 1,
+      "issuekey": "PITL1-9",
+      "summary": "Web - Privacy Dashboard with an overview of who requested what kind of information at which time for what reason and on what level (personal/aggregated data)"
+    },
+    {}
+  ],
+  [
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-8",
+      "summary": "Slack - Detect if developer is aggressive towards colleagues with sentiment analysis and slack"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 3,
+      "issuekey": "PITL1-8",
+      "summary": "Slack - Detect if developer is aggressive towards colleagues with sentiment analysis and slack"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 3,
+      "issuekey": "PITL1-8",
+      "summary": "Slack - Detect if developer is aggressive towards colleagues with sentiment analysis and slack"
+    },
+    {
+      "username": "ga65hif",
+      "score": 2,
+      "issuekey": "PITL1-8",
+      "summary": "Slack - Detect if developer is aggressive towards colleagues with sentiment analysis and slack"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 5,
+      "issuekey": "PITL1-6",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 5,
+      "issuekey": "PITL1-6",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-6",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-6",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 5,
+      "issuekey": "PITL1-5",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 5,
+      "issuekey": "PITL1-5",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-5",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-5",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 5,
+      "issuekey": "PITL1-4",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 5,
+      "issuekey": "PITL1-4",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-4",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-4",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    }
+  ],
+  [
+    {
+      "username": "ga65hif",
+      "score": 5,
+      "issuekey": "PITL1-3",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "zhiyiniu",
+      "score": 5,
+      "issuekey": "PITL1-3",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "n.moghadam@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-3",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    },
+    {
+      "username": "saury.pande@tum.de",
+      "score": 4,
+      "issuekey": "PITL1-3",
+      "summary": "Create 5-10 Epics in Jira with your ideas, use cases, concepts, etc. for the project"
+    }
+  ]
+]

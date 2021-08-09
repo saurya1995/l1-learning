@@ -1,0 +1,298 @@
+{
+    "data": [
+        {
+            "name": "simon.speth",
+            "avgscore": 0.0,
+            "variancescore": 0.0,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.0,
+                "message": " has joined the channel"
+            },
+            "minscore": {
+                "minscorevalue": 0.0,
+                "message": " has joined the channel"
+            }
+        },
+        {
+            "name": "guyiyu",
+            "avgscore": 0.033025000000000006,
+            "variancescore": 0.072668091875,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6486,
+                "message": "Hi nice to meet you all :wave::skin-tone-2:\nWould like to ask, when you guys prefer an icebreaker video chat?"
+            },
+            "minscore": {
+                "minscorevalue": -0.9027,
+                "message": "2021/04/25 13:18:56 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection\n refused\n2021/04/25 13:40:08 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection refused\n2021/04/25 13:40:08 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection refused\n2021/04/25 13:41:20 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection refused\n2021/04/25 13:41:20 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection refused\n2021/04/25 13:41:59 handlers.go:373: Get \"\": dial tcp 172.21.0.3:5430: connect: connection\n refused```\nHi, have anyone met this problem before?"
+            }
+        },
+        {
+            "name": "00000000014a3888",
+            "avgscore": 0.12769347826086958,
+            "variancescore": 0.06527201408790169,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6597,
+                "message": "For login thing in the system, I tried to manually create a user (direct http request) to revelori and create .env file for clotilde to direct to Api address and it surprisingly works."
+            },
+            "minscore": {
+                "minscorevalue": -0.3612,
+                "message": "I am still jet lagging hard from flight."
+            }
+        },
+        {
+            "name": "nikanmog",
+            "avgscore": 0.18451891891891892,
+            "variancescore": 0.07693795558802045,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.7684,
+                "message": "Our meeting on Friday will be moved to another date (TBD) but please give a status update on your progress by *Friday 9PM."
+            },
+            "minscore": {
+                "minscorevalue": -0.2755,
+                "message": "What I meant to say is that we did not agree on a time yet and if 9:30 won't work 9 won't work either"
+            }
+        },
+        {
+            "name": "fehrenstorfer",
+            "avgscore": 0.1326153846153846,
+            "variancescore": 0.045793635147929015,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.7717,
+                "message": "Looks like today at 4 pm is the best time:grin:"
+            },
+            "minscore": {
+                "minscorevalue": 0.0,
+                "message": " has joined the channel"
+            }
+        },
+        {
+            "name": "ge34cal",
+            "avgscore": 0.1415212121212121,
+            "variancescore": 0.07300064955004593,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.8074,
+                "message": "In case it turns out to be a bigger task and it\u2019d be good to have some help,  also volunteered to help."
+            },
+            "minscore": {
+                "minscorevalue": -0.4215,
+                "message": "Hey peeps , I\u2019ve been the past 10 hours in an emergency room and unfortunately won\u2019t be able to join our meeting today."
+            }
+        },
+        {
+            "name": "saurypande",
+            "avgscore": 0.01366,
+            "variancescore": 0.0035453164000000007,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.2732,
+                "message": "It's not working maybe we need to create a new link."
+            },
+            "minscore": {
+                "minscorevalue": 0.0,
+                "message": " has joined the channel"
+            }
+        },
+        {
+            "name": "ga65hif",
+            "avgscore": 0.03675384615384615,
+            "variancescore": 0.04841799479289942,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.5209,
+                "message": "I would suggest though ensuring the icebreaker meeting is announced 1 day before, so everyone has a chance to see the time."
+            },
+            "minscore": {
+                "minscorevalue": -0.4939,
+                "message": "Im sorry :("
+            }
+        },
+        {
+            "name": "valentin",
+            "avgscore": 0.22825531914893615,
+            "variancescore": 0.09986842374830239,
+            "medianscore": 0.0258,
+            "maxscore": {
+                "maxscorevalue": 0.8613,
+                "message": "\u2022 Use Cases \u2013 informational\n\u2022 Stand-up notes from today\n, if you would be so kind to update your branch according to the best practices?"
+            },
+            "minscore": {
+                "minscorevalue": -0.4199,
+                "message": "No, you will need to add test users to Revolori yourself, sorry!"
+            }
+        },
+        {
+            "name": "basakakan",
+            "avgscore": 0.14552,
+            "variancescore": 0.06880860204444447,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6792,
+                "message": "Yeah nice job !!"
+            },
+            "minscore": {
+                "minscorevalue": -0.4019,
+                "message": "My error message has changed somehow."
+            }
+        },
+        {
+            "name": "manuelmanso",
+            "avgscore": 0.24681250000000002,
+            "variancescore": 0.10179885109375002,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6908,
+                "message": "Ah nice, thanks"
+            },
+            "minscore": {
+                "minscorevalue": 0.0,
+                "message": " has joined the channel"
+            }
+        },
+        {
+            "name": "00000000014974b7",
+            "avgscore": 0.0038074074074074074,
+            "variancescore": 0.05782747772290809,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6124,
+                "message": "Yes, please."
+            },
+            "minscore": {
+                "minscorevalue": -0.631,
+                "message": "The other option is to  make the meeting from 9:30-10:30, but  is going to be sleep deprived :sweat_smile:"
+            }
+        },
+        {
+            "name": "alexandereichler",
+            "avgscore": 0.08113529411764707,
+            "variancescore": 0.03595700110726643,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.7579,
+                "message": "TEAM J: perfect :smile: nice guys"
+            },
+            "minscore": {
+                "minscorevalue": -0.1969,
+                "message": "No problem, I hope it's nothing too serious"
+            }
+        },
+        {
+            "name": "zhiyiniu",
+            "avgscore": 0.08981509433962265,
+            "variancescore": 0.04718160203631186,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.7034,
+                "message": "OK, if 9:00 is better for all,  let's just start at 9:00."
+            },
+            "minscore": {
+                "minscorevalue": -0.4333,
+                "message": "But I am not sure if some features are limited to me or not."
+            }
+        },
+        {
+            "name": "hohmannr",
+            "avgscore": 0.052871739130434775,
+            "variancescore": 0.0477333072448015,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6597,
+                "message": "But probably a good idea would be to have a docker-compose file ready for which combines all the three technologies, so we can run the system with a single command."
+            },
+            "minscore": {
+                "minscorevalue": -0.6369,
+                "message": "I am an idiot, I always forget that the JavaScript is running client side."
+            }
+        },
+        {
+            "name": "ge25zek",
+            "avgscore": 0.06440625,
+            "variancescore": 0.038995958085937504,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6114,
+                "message": "Perfect, so see you all at 4!"
+            },
+            "minscore": {
+                "minscorevalue": -0.2044,
+                "message": "I assume not much more important was said?"
+            }
+        },
+        {
+            "name": "outlook_calendar",
+            "avgscore": -2,
+            "variancescore": -2,
+            "medianscore": -2,
+            "maxscore": {
+                "maxscorevalue": -2,
+                "message": ""
+            },
+            "minscore": {
+                "minscorevalue": 2,
+                "message": ""
+            }
+        },
+        {
+            "name": "maxz",
+            "avgscore": 0.19490909090909092,
+            "variancescore": 0.0688479244628099,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.6486,
+                "message": "I also looked at the api's of the tools, since i wanted to know how our potential data will look like, maybe you will find it helpful "
+            },
+            "minscore": {
+                "minscorevalue": -0.1531,
+                "message": "There was no timeframe given, but anyway :smile:"
+            }
+        },
+        {
+            "name": "ga27koc",
+            "avgscore": 0.09441750000000002,
+            "variancescore": 0.057035397943749996,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.836,
+                "message": " I forgot to mention: This might be a good opportunity to create a first branch / merge request as well"
+            },
+            "minscore": {
+                "minscorevalue": -0.4767,
+                "message": "Maybe something went wrong in the initial step"
+            }
+        },
+        {
+            "name": "simplepoll",
+            "avgscore": 0.0,
+            "variancescore": 0.0,
+            "medianscore": 0.0,
+            "maxscore": {
+                "maxscorevalue": 0.0,
+                "message": " has joined the channel"
+            },
+            "minscore": {
+                "minscorevalue": 0.0,
+                "message": " has joined the channel"
+            }
+        },
+        {
+            "name": "zoom",
+            "avgscore": -2,
+            "variancescore": -2,
+            "medianscore": -2,
+            "maxscore": {
+                "maxscorevalue": -2,
+                "message": ""
+            },
+            "minscore": {
+                "minscorevalue": 2,
+                "message": ""
+            }
+        }
+    ]
+}

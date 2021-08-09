@@ -1,0 +1,60 @@
+{
+  "name": "webapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^6.1.2",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/data-grid": "^4.0.0-alpha.28",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@nivo/bar": "^0.72.0",
+    "@nivo/bullet": "^0.72.0",
+    "@nivo/chord": "^0.72.0",
+    "@nivo/circle-packing": "^0.72.0",
+    "@nivo/core": "^0.72.0",
+    "@nivo/funnel": "^0.72.0",
+    "@nivo/pie": "^0.72.0",
+    "@nivo/radar": "^0.72.0",
+    "@nivo/stream": "^0.72.0",
+    "@nivo/sunburst": "^0.72.0",
+    "axios": "^0.21.1",
+    "firebase": "^8.6.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-firebaseui": "^5.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "twin.macro": "^2.4.2"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "deploy": "craco build && firebase deploy"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "firebase-tools": "^9.12.0",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
+  }
+}
