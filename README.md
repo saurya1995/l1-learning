@@ -1,13 +1,4 @@
-# Team L1 – Learning From Heterogeneous Developer Data
-
-## Team Lead
-- Nikan Moghadam
-
-## Developers
-- Saury Pande
-- Thomas Rahm
-- Zhiyi Niu
-
+# L1 – Learning From Heterogeneous Developer Data
 
 ## Documentation
 
